@@ -1,1 +1,0 @@
-# Subscription-as-a-Service
