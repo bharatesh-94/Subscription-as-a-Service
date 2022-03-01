@@ -45,7 +45,7 @@ There is 1 controller in this project as below.
 
 `http://localhost:3000/subscription/:username/:date?`
 
-- Sample output with data
+- Sample output with date
 ```
 { 
     "plan_id": "PRO_1M",
@@ -53,7 +53,7 @@ There is 1 controller in this project as below.
 }
 ```
 
-- Sample output without data (only username)
+- Sample output without date (only username)
 ```
 [
     {
